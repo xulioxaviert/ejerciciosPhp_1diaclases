@@ -5,8 +5,6 @@
     $valor = $_GET["fichero"];
 
 
-
-
     //$valor = "hola.exe";
     //$valor = "hola.exe";
 
